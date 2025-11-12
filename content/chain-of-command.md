@@ -1,11 +1,7 @@
 ---
 title: Chain Of Command
 ---
-## Chain of Command
-
 The chain of command defines **who should handle the situation** if escalation is required.
-
-
 
 ## Internal Questions/Affairs
 

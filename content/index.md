@@ -1,7 +1,6 @@
 ---
 title: PvPHub Staff Docs
 ---
-
 ### 👋 Welcome
 
 Welcome to the **PvPHub Staff Documentation**.
