@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "PvPHub Staff Docs",
+    pageTitle: "PvPHub Staff Documentation",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
