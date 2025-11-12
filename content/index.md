@@ -1,5 +1,5 @@
 ---
-title: PvPHub Documentation
+title: PvPHub Staff Docs
 ---
 
 ### 👋 Welcome
