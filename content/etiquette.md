@@ -7,9 +7,9 @@ Please do remember that **your behaviour** **reflects** how people view the serv
 
 > ### 🤬 For Example
 >
->You say a slur in another server.
->A user sees this, then joins the server, and sees you as staff.
->User may feel uncomfortable playing, feeling the server may reflect what you said.
+>1. You say a slur in another server.
+>2. A user sees this, then joins the server, and sees you as staff.
+>3. User may feel uncomfortable playing, feeling the server may **reflect what you said**.
 
 We generally ask our staff to operate off **common sense**, while **remaining considerate** of others around them (i.e., other staff members & players).
 
