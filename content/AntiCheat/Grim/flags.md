@@ -1,3 +1,3 @@
 ---
-title: Flags
+title: Grim • Flags
 ---

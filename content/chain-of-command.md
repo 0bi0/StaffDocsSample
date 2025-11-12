@@ -7,7 +7,7 @@ The chain of command defines **who should handle the situation** if escalation i
 
 If a staff member has a **general enquiry**, or an **internal affair** (i.e., an issue or problem with another staff member), please refer to this "Chain of command".
 
-* **General issue or question** ➡️ **Your Assigned Mentor / Sr. Moderator / Administrator** 
+* **General issue or question** ➡️ **Your Assigned [[Mentor]] / Sr. Moderator / Administrator** 
 > (They’ll forward it to management or whoever needs to handle it if necessary)
 * **Issue with an Admin** ➡️ **System Administrator**
 * **Issue with a System Administrator** ➡️ **Owner**
