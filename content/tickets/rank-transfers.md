@@ -1,3 +1,3 @@
 ---
-title: Tickets/Rank Transfers
+title: Rank Transfers
 ---

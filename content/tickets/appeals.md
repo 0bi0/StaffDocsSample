@@ -1,3 +1,3 @@
 ---
-title: Tickets/Appeals
+title: Appeals
 ---

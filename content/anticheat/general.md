@@ -1,3 +1,3 @@
 ---
-title: AntiCheat/General
+title: General
 ---

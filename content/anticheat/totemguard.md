@@ -1,3 +1,3 @@
 ---
-title: AntiCheat/TotemGuard
+title: TotemGuard
 ---

@@ -1,3 +1,3 @@
 ---
-title: Tickets/General
+title: General
 ---

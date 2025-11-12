@@ -1,3 +1,3 @@
 ---
-title: Tickets/Player Reports
+title: Player Reports
 ---
