@@ -1,7 +1,7 @@
 ---
 title: Staff Manager
 ---
-> ℹ️ Multiple users who discuss other staff for **promotions**, **demotions**.
+> ℹ️ Multiple [[Management]] members who discuss other staff for **promotions**, **demotions**.
 >  Make general decisions regarding the staff team.
 
 ### ☑️ Responsibilities
@@ -10,4 +10,4 @@ title: Staff Manager
 - Identify and responsibly deal with internal issues & problems.
 
 The **Staff Manager** role will be a sub-role since people who have it may also handle other things.
-This is **not a primary or sole responsibility**, and will be split across multiple users.
+This is **not a primary or sole responsibility**, and will be split across multiple management members.
