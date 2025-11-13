@@ -5,3 +5,6 @@ title: 1. Owner
 
 The owner, as the term implies, owns the server. Think about the domain, server rent contracts, plugins, other assets, and so on.
 
+### Reference
+Member of [[Management]]
+
