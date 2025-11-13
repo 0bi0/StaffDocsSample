@@ -1,9 +1,7 @@
 ---
 title: PvPHub Staff Docs
 ---
-### 👋 Welcome
-
-Welcome to the **PvPHub Staff Documentation**.
+👋 Welcome to the **PvPHub Staff Documentation**.
 
 Here you'll find some useful references to handle situations, and operate as a staff member for us!
 
