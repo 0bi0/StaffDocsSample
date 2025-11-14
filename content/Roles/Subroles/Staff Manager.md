@@ -11,3 +11,5 @@ title: 2. Staff Manager
 
 The **Staff Manager** role will be a sub-role since people who have it may also handle other things.
 This is **not a primary or sole responsibility**, and will be split across multiple management members.
+
+Commonly members of [[Management]].
