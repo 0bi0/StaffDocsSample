@@ -7,7 +7,7 @@ If you find a [[general]] ticket is a rank transfer, please ask for the **Tebex 
 
 > **Example Tebex ID:** `tbx-XXXXXXXXXXXXXX-XXXXXX`
 
-Once obtained, please hand over the ticket to an [[Administrator]] or above - This should be done **concisely** with **clear communication and intent**.
+Once obtained, please hand over the ticket to an [[Administrator]] or above - This should be done by following the example below, and [[Ticket Etiquette]].
 
 `Example:`
 ```
