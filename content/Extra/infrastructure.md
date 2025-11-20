@@ -1,7 +1,6 @@
 ---
 title: Infrastructure
 ---
-
 > ℹ️ This page contains some technical details about our infrastructure.
 
 ## **Hardware**

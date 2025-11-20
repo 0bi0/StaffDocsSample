@@ -1,6 +1,9 @@
 ---
 title: Account Linking
 ---
+> ℹ️ **This is not yet implemented, staff will be asked to refer to this once implemented!**
+> (Ignore this page for the time being).
+
 We **require** all staff members to **link** their Discord account to their primary In-Game account.
 
 This allows us to follow and track **your punishments**. Don't worry too much about this, since we have very low "quotas" to meet, as we don't only consider in-game punishments to be contributions to the team!
