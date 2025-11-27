@@ -3,7 +3,7 @@ title: 4. Rank Transfers
 ---
 > ℹ️  Handled by [[Support]] and above until escalation is necessary.
 
-If you find a [[General]] ticket is a rank transfer, please ask for the **Tebex Transaction ID** (for proof of purchase).
+If you find a [[Tickets/general]] ticket is a rank transfer, please ask for the **Tebex Transaction ID** (for proof of purchase).
 
 > **Example Tebex ID:** `tbx-XXXXXXXXXXXXXX-XXXXXX`
 

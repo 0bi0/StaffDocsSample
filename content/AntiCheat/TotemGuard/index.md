@@ -1,5 +1,5 @@
 ---
-title: TotemGuard
+title: 2. TotemGuard
 ---
 We use **TotemGuard** to check for, as the name suggests, flag users for possible use of **AutoTotem**, alongside a few other mods.
 

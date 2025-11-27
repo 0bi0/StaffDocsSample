@@ -12,7 +12,7 @@ title: Infrastructure
 - **Server:** UniverseSpigot
 - **Minecraft Version:** 1.21.4
 - **Voice Chat:** Simple Voice Chat 2.6.6
-- **Anti-Cheat:** GrimAC (V2) + TotemGuard
+- **Anti-Cheat:** Polar + TotemGuard
 
 ## **Infrastructure Locations**
 - **DDoS Mitigation Edge Locations:** Multiple worldwide locations (including Frankfurt)
