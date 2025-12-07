@@ -11,12 +11,10 @@ Polar is an anticheat that does both calculation on the server while someone is 
 In order to retrieve logs from a specific player there are multiple ways of doing so. To gain general information about a player you can run
 
 ```bash
-/polarlogs info <username>
+/polar logs info <username>
 ```
 
 To get more details about what a player was specifically flagging you can run:
 ```bash
-/polarlogs view p:<username> [page]
+/polar logs view p:<username> [page]
 ```
-
-More information about the specific alerts can be found on the [[AntiCheat/Polar/flags]] page.
