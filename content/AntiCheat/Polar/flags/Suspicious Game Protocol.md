@@ -57,6 +57,8 @@ To see what the player flagged for:
 
 If the details are present, Discord will show them.  
 If no details appear, then Polar detected an invalid protocol, but didn’t specify which check.
+
+---
 ## Duplicated Slot
 
 <span style="color:#6ea2e2;">Polar</span> <span style="color:light_gray;">&gt;</span> <span style="color:#6ea2e2;">DevBram</span> <span style="color:#b7cfed;">Suspicious game protocol</span> <span style="color:light_gray;">(Duplicated slot)</span>
