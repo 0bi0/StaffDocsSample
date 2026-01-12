@@ -1,4 +1,0 @@
-[00:00:01.213] Server  LOG     ✓ Ready in 810ms
-[00:00:06.512] Server  ERROR   ⨯ Error: Objects are not valid as a React child (found: object with keys {type, props, __k, __, __b, __e, __c, __v, __i, __u, __source}). If you meant to render a collection of children, use an array instead.
-[00:00:06.701] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:06.701] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {type, props, __k, __, __b, __e, __c, __v, __i, __u, __source}). If you meant to render a collection of children, use an array instead.

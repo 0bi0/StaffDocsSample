@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Owner/Desktop/StaffDocsSample/app/page.jsx"],"sourcesContent":["// app/page.jsx\r\nexport default function Page() {\r\n  const elements = [\r\n    <h1 key=\"1\">Hello</h1>,\r\n    <p key=\"2\">World</p>\r\n  ];\r\n\r\n  return <div>\r\n    {elements.map((el, i) => (\r\n      <span key={i}>{el}</span> // wrap each element in a span or fragment\r\n    ))}\r\n  </div>;\r\n}\r\n"],"names":[],"mappings":"AAAA,eAAe;;;;;;;AACA,SAAS;IACtB,MAAM,WAAW;sBACf,+LAAC;sBAAW;WAAJ;;;;;sBACR,+LAAC;sBAAU;WAAJ;;;;;KACR;IAED,qBAAO,+LAAC;kBACL,SAAS,GAAG,CAAC,CAAC,IAAI,kBACjB,+LAAC;0BAAc;eAAJ;;;;;;;;;;AAGjB"}}]
-}
