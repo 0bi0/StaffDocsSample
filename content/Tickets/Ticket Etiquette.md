@@ -8,7 +8,7 @@ As mentioned in [[General Etiquette]], staff should remember they represent the 
 ## 🤔 Unsure of a ticket?
 
 **If you need help with a ticket**, refer to:
-1. **Staff Guide** (yes this one!)
+1. **Staff Guide** (yes, this one!)
 2. **Your assigned Mentor**
 3. **Other members of the staff team** (Just pop a question in staff chat)
 

@@ -1,12 +1,26 @@
 ---
 title: AntiCheat
 ---
->[!warning]
->Leaking AntiCheat related information, especially concerning players flagging, to someone outside of the staff team, is an instant demotion. 
-## Introduction
-At PvPHub we run a combination of multiple anticheats. Our setup always consists out of a primary anticheat + TotemGuard. Our primary anticheat is [Polar](https://polar.top/) and our secondary (backup) anticheat is [Grim V2](https://modrinth.com/plugin/grimac).
+> [!warning]
+> **Leaking AntiCheat-related information**, especially concerning player flagging and/or check behavior, **to anyone outside of the staff team will result in an immediate demotion**.
 
-This means the server is running either:
-- Polar + TotemGuard
-- Grim V2 + TotemGuard
+---
 
+## AntiCheat Overview
+
+PvPHub operates a **multi-layer AntiCheat system** to ensure that there are as few false punishments as possible, while also ensuring fair gameplay.
+
+The server will always be running **one** of the following configurations:
+- **Polar + TotemGuard**
+- **Grim V2 + TotemGuard**
+
+Each AntiCheat behaves differently, and **not all flags are equal**. Please make sure to familiarize yourself with what check means.
+Some checks are known to false under specific conditions, while others are considered highly reliable.
+
+
+> **Always review AntiCheat alerts in context**, and refer to the relevant documentation before making a punishment decision:
+> - [[AntiCheat/Polar/index]]  -  (Polar index)
+> - [[AntiCheat/Grim/index]]  -  (Grim index)
+> - [[AntiCheat/TotemGuard/index]]  -  (TG index)
+
+---
