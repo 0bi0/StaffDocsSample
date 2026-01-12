@@ -1,8 +1,8 @@
 ---
-title: Ticket FAQ
+title: FAQ
 ---
 ---
-This page should server as your go-to hub for any miscellaneous questions regarding the server. This section should primarily be used for [[general]] tickets, as this is where players make their inquiries.
+This page should serve as your go-to hub for any miscellaneous questions regarding the server. This section should primarily be used for [[general]] tickets, as this is where players make their inquiries.
 
 ---
 
