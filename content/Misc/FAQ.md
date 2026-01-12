@@ -2,68 +2,99 @@
 title: FAQ
 ---
 ---
-This page should serve as your go-to hub for any miscellaneous questions regarding the server. This section should primarily be used for [[general]] tickets, as this is where players make their inquiries.
+This page should serve as your go-to hub for any miscellaneous information regarding the server. This section should primarily be used for [[general]] tickets or any other situation where the need arises.
 
 ---
 
 #### Below is a list of general questions you might get asked as staff at PvPHub:
 
 
-> - "*What version is the server*?"
-> - Response: "*Our servers run UniverseSpigot 1.21.4.*"
+## Server Information
+- **Server version:** 1.21.4
+- **Server software:** UniverseSpigot
+- **Bedrock support:** ❌ Not supported
+- **Server status:** PvPHub is not for sale
+- **Hosting location:** Nuremberg, Germany (West Germany)
+- **Playerbase:** ~⅔ of players are from Germany
+- **Profitability:** PvPHub is profitable  
+  *We do not bot or spoof player count*
 
-> - "*Does PvPHub support Bedrock edition?*"
-> - Response: "*No, we do not support Bedrock edition.*"
+---
 
-> - "*Is PvPHub for sale*?"
-> - Response: "*No, PvPHub is not for sale.*"
+## Position Acquisition
+- **Staff applications:** `🚓・staff-applications`  
+  *Applications are the only accepted method*
+- **Staff application process:**  
+  - Initial application  
+  - Wave 2 (may take up to **10 days**)
+- **Media applications:** `📷・media-applications`
+- **Community Managers:** ❌ Not currently recruiting
+- **Developers:** ❌ Not currently recruiting
 
-> - "*How can I get tier-tested in Crystal PvP?*"
-> - Response: "*In order to get tier-tested, please join discord.gg/cpvp. You can afterwards request a tier test in the `📨 | request-test` channel.*"
+---
 
-> - "*How do I claim my rank on Discord?*"
-> - Response: "*In order to claim your rank in the Discord, please do `/limbo` in-game and take a screenshot of the tab-list. Make sure you're unnicked*"
+## Ranks & Store
+- **Rank prices:**
+  - Silver – £5
+  - Gold – £10
+  - Diamond – £15
+  - Ruby – £30
+- **Webstore:** https://store.pvphub.me/
+- **Rank transfers:**  
+  - Open a ticket  
+  - Use `-transfer`  
+  - Wait for an **Administrator** to handle it
+- **Discord rank claiming:**  
+  - Use `/limbo` in-game  
+  - Take a screenshot of the tab list  
+  - Ensure your nickname is reset (`/nick reset`)
 
-> - "*How do staff applications work*?"
-> - Response: "*Staff applications have 2 waves: the initial application, and wave 2. All details are in ⁠🚓・staff-applications. Wave 2 applications can take up to 10 days to process.*"
+---
 
-> - "*Where do media applications go*?"
-> - Response: "*Media applications are submitted in ⁠📷・media-applications.*"
+## CPvP Tier Testing
+- **Tier testing:**  
+  - Join https://discord.gg/cpvp  
+  - Go to `📨 | request-test`  
+  - Follow the bot instructions
+- **Crystal PvP tiers:**  
+  - Managed externally through the TL Discord  
+  - Syncs automatically once verified
 
-> - "*How do I know if a mod or client is allowed*?"
-> - Response: "*Ask yourself: 'Does it give the user an unfair competitive advantage over others?' If yes, it’s not allowed.*"
+---
 
-> - "*How do I take a screenshot on PC?*"
-> - Response: "*Use `WIN + Shift + S` to open the clipping tool, select the items which you want to be in frame and let go, it'll copy a screenshot to your clipboard.*"
+## Mods, Clients & Fair Play
+- **Allowed mods rule:**  
+  Ask yourself:  
+  *“Does this give the user an unfair competitive advantage over others?”*  
+  → If **yes**, it is **not allowed**
+- **Mod uncertainty:**  
+  When unsure, review internally; do **not** guess in tickets
 
-> - "*Can players make suggestions*?"
-> - Response: "*Yes, we prefer suggestions on https://github.com/PvPHubLLC/Issue-Tracker/issues.*"
+---
 
-> - "*Is PvPHub looking for developers or community managers*?"
-> - Response: "*No, we are not actively looking for developers or community managers at this time.*"
+## Gameplay Rules & Mechanics
+- **Kill streaks:**  
+  ❌ Kill streaks are **not saved** when leaving and rejoining the server
+- **Cross-server trading:**  
+  ✅ Allowed
+- **IRL trading:**  
+  ⚠️ Allowed unless a scam occurs; scams result in a ban
 
-> - "*How do I apply for staff*?"
-> - Response: "*PvPHub only accepts staff applications via the official method ⁠🚓・staff-applications.*"
+---
 
-> - "*How much do ranks cost*?"
-> - Response: "*Silver rank is £5, Gold is £10, Diamond is £15, and Ruby is £30.*"
+## Suggestions & Feedback
+- **Player suggestions:**  
+  Preferred via GitHub:  
+  https://github.com/PvPHubLLC/Issue-Tracker/issues
+- **Survival suggestions:**  
+  No dedicated Discord channel
 
-> - "*If I leave the server and re-join, will my box killstreak be saved?*"
-> - Response: "*No, you do **not** keep your kill streak when leaving the server and re-joining."
+---
 
-> - "*Where is the webstore*?"
-> - Response: "*Our webstore is https://store.pvphub.me/.*"
+## Screenshots & Evidence
+- **Taking screenshots on PC:**  
+  Use `WIN + SHIFT + S`  
+  Select the relevant area and paste the image into the ticket
 
-> - "*How do I transfer ranks*?"
-> - Response: "*Open a ticket and execute the command `-transfer`. Please follow the instruction listed there, and wait patiently until an Administrator handles your ticket.*"
-
-> - "*Is PvPHub profitable*?"
-> - Response: "*Yes, PvPHub is profitable. We do not bot or spoof player count.*"
-
-> - "*Where is PvPHub hosted*?"
-> - Response: "*PvPHub is hosted in Nuremberg, Germany (West Germany). Two-thirds of the playerbase is from Germany.*"
-
-> - "*Is cross-server trading allowed*?"
-> - Response: "*Yes, cross trading between servers is fine.*"
 
 
