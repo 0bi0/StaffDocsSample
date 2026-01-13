@@ -6,7 +6,7 @@ title: Staff Abuse Guidelines
 
 ## Professionalism & Staff Abuse Guidelines
 
-Staff members represent the server and are expected to act professionally at all times. All staff members' actions must be fair, unbiased, and follow documented procedures. Abuse of staff privileges or unprofessional conduct will be taken seriously.
+As staff, you're expected to maintain the utmost professionalism at all times.
 
 ## Professional Conduct
 

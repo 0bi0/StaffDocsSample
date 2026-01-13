@@ -73,10 +73,6 @@ This page should serve as your go-to hub for any miscellaneous information regar
 ## Gameplay Rules & Mechanics
 - **Kill streaks:**  
   ❌ Kill streaks are **not saved** when leaving and rejoining the server
-- **Cross-server trading:**  
-  ✅ Allowed
-- **IRL trading:**  
-  ⚠️ Allowed unless a scam occurs; scams result in a ban
 
 ---
 
