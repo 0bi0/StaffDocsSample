@@ -35,8 +35,8 @@ This page should serve as your go-to hub for any miscellaneous information regar
 ## Ranks & Store
 - **Webstore:** https://store.pvphub.me/
 - **Rank transfers:**  
-  - Open a ticket  
-  - Use `-transfer`  
+  - Use `-transfer` 
+  - Tell user to follow instructions
   - Wait for an **Administrator** to handle it
 - **Discord rank claiming:**  
   - Use `/limbo` in-game  
