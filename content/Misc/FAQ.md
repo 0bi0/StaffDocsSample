@@ -15,7 +15,7 @@ This page should serve as your go-to hub for any miscellaneous information regar
 - **Hosting location:** Nuremberg, Germany (West Germany)
 - **Playerbase:** ~⅔ of players are from Germany
 - **Profitability:** PvPHub is profitable
-  *We do not bot or spoof player count*
+  *(We do not bot or spoof player count)*
 
 ---
 
@@ -29,23 +29,6 @@ This page should serve as your go-to hub for any miscellaneous information regar
 - **Community Managers:** ❌ Not currently recruiting
 - **Developers:** ❌ Not currently recruiting
 
----
-
-## Ranks & Store
-- **Rank prices:**
-  - Silver – £5
-  - Gold – £10
-  - Diamond – £15
-  - Ruby – £30
-- **Webstore:** https://store.pvphub.me/
-- **Rank transfers:**  
-  - Open a ticket  
-  - Use `-transfer`  
-  - Wait for an **Administrator** to handle it
-- **Discord rank claiming:**  
-  - Use `/limbo` in-game  
-  - Take a screenshot of the tab list  
-  - Ensure your nickname is reset (`/nick reset`)
 
 ---
 
@@ -80,8 +63,6 @@ This page should serve as your go-to hub for any miscellaneous information regar
 - **Player suggestions:**  
   Preferred via GitHub:  
   https://github.com/PvPHubLLC/Issue-Tracker/issues
-- **Survival suggestions:**  
-  No dedicated Discord channel
 
 ---
 
