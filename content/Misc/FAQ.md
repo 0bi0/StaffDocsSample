@@ -2,11 +2,9 @@
 title: FAQ
 ---
 ---
-This page should serve as your go-to hub for any miscellaneous information regarding the server. This section should primarily be used for [[general]] tickets or any other situation where the need arises.
+This page should serve as your go-to hub for any miscellaneous information regarding the server. This section should be used primarily for [[general]] tickets. It is also appropriate for situations where another category is not applicable.
 
 ---
-
-#### Below is a list of general questions you might get asked as staff at PvPHub:
 
 
 ## Server Information
@@ -16,14 +14,14 @@ This page should serve as your go-to hub for any miscellaneous information regar
 - **Server status:** PvPHub is not for sale
 - **Hosting location:** Nuremberg, Germany (West Germany)
 - **Playerbase:** ~⅔ of players are from Germany
-- **Profitability:** PvPHub is profitable  
+- **Profitability:** PvPHub is profitable
   *We do not bot or spoof player count*
 
 ---
 
 ## Position Acquisition
-- **Staff applications:** `🚓・staff-applications`  
-  *Applications are the only accepted method*
+- **Staff applications:** `🚓・staff-applications` 
+  *Applications are the only accepted method of becoming staff*
 - **Staff application process:**  
   - Initial application  
   - Wave 2 (may take up to **10 days**)
