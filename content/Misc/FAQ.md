@@ -32,6 +32,18 @@ This page should serve as your go-to hub for any miscellaneous information regar
 
 ---
 
+## Ranks & Store
+- **Webstore:** https://store.pvphub.me/
+- **Rank transfers:**  
+  - Open a ticket  
+  - Use `-transfer`  
+  - Wait for an **Administrator** to handle it
+- **Discord rank claiming:**  
+  - Use `/limbo` in-game  
+  - Take a screenshot of the tab list  
+  - Ensure your nickname is reset (`/nick reset`)
+
+---
 ## CPvP Tier Testing
 - **Tier testing:**  
   - Join https://discord.gg/cpvp  
