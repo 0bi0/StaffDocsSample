@@ -19,8 +19,8 @@ Some checks are known to false under specific conditions, while others are consi
 
 
 > **Always review AntiCheat alerts in context**, and refer to the relevant documentation before making a punishment decision:
-> - [[AntiCheat/Polar/index]]  -  (Polar index)
-> - [[AntiCheat/Grim/index]]  -  (Grim index)
-> - [[AntiCheat/TotemGuard/index]]  -  (TG index)
+> - [[Polar index]]
+> - [[Grim index]]
+> - [[TotemGuard index]]
 
 ---
