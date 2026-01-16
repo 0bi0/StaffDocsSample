@@ -1,7 +1,7 @@
 ---
 title: 5. Moderator
 ---
-> ℹ️ Moderators are expected to monitor player behavior, handle reports and appeals, and enforce server rules in-game and on Discord. They may escalate uncertain cases to [[Senior Moderator]]s or [[Administrator]]s if need be.
+> ℹ️ Moderators are expected to monitor player behaviour, handle reports and appeals, and enforce server rules in-game and on Discord. They may escalate uncertain cases to [[Senior Moderator]]s or [[Administrator]]s if need be.
 > 
 > - This role is obtained through promotion from [[Support]].
 
