@@ -15,7 +15,7 @@ If evidence is provided as an **Online Clip** (e.g., Medal), please download and
 > ## 📝
 > Evidence is absolutely required to make a decision, if there isn't enough, then **ask for more** or void the ticket.
 > 
-> If you are **unsure** of a decision, ask for other staff's opinions, or do not deliver a punishment
+> If you are **unsure** of a decision, ask for other staff's opinions, or do not deliver a punishment.
 > 
 > **Punishments should only be made once 100% sure.**
 

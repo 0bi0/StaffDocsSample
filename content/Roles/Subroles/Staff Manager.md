@@ -1,8 +1,8 @@
 ---
 title: 2. Staff Manager
 ---
-> ℹ️ Multiple [[Management]] members who discuss other staff for **promotions**, **demotions**.
->  Make general decisions regarding the staff team.
+> ℹ️ Multiple [[Management]] members who discuss staff **promotions** and **demotions**.
+> Make general decisions regarding the staff team.
 
 ### ☑️ Responsibilities
 
