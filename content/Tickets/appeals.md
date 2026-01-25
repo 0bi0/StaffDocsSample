@@ -13,7 +13,7 @@ In the case where the proof isn't valid, simply unmute the person, and apologise
 ### Bans
 There are two types of bans. Anticheat bans and staff bans. 
 #### Anticheat
-In the case of an AntiCheat punishment, look up the player’s logs by typing their username in the Discord search bar and reviewing their alerts. Based on the alerts send, and the AntiCheat guides [[AntiCheat/Grim/]] and [[AntiCheat/TotemGuard/]], you make a decision whether the ban is valid or not. Keep in mind some checks may false, while others never. 
+In the case of an AntiCheat punishment, look up the player’s logs by typing their username in the Discord search bar and reviewing their alerts. Based on the alerts send, and the AntiCheat guides [[AntiCheat/Polar]] and [[AntiCheat/TotemGuard/]], you make a decision whether the ban is valid or not. Keep in mind some checks may false, while others never. 
 
 
 > If you are unsure, don't hesitate to ask the opinion of other staff members. If that still doesn't draw a conclusion, please notify a [[System-Administrator]], so he can take a closer look at the situation.
