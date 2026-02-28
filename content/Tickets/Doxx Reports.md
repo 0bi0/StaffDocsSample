@@ -1,5 +1,5 @@
 ---
-title: 5. Doxx Reports
+title: 4. Doxx Reports
 ---
 > ℹ️ [[Administrator]] and above may handle Doxxing reports.
 
