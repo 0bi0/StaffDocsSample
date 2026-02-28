@@ -12,4 +12,4 @@ title: 3. Staff Manager
 The **Staff Manager** role is a sub-role, since people who have it may also handle other tasks.
 This is **not a primary or sole responsibility**, and will be split across multiple management members.
 
-Final decisions are made collectively by all Staff Managers.
+Final decisions regarding staff decisions are made collectively by all Staff Managers.
