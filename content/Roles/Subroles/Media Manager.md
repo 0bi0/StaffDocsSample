@@ -12,4 +12,4 @@ title: 5. Media Manager
 
 The **Media Manager** role is a sub-role, as staff members with this role may also contribute in other various ways. This is **not a standalone position**, and duties are shared across multiple Senior Moderators.
 
-Final decisions regarding Media activity and demotions may be made collectively by all Media Managers.
+Final decisions regarding Media activity and demotions may be made collectively by all Media Managers.e
