@@ -1,7 +1,7 @@
 ---
 title: 2. Mentors
 ---
-> ℹ️ **Mentors** will be staff assigned [[Senior Moderator]]s who choose to take on new [[Support]] members to guide them as "Mentees" through their early days of their roles.
+> ℹ️ **Mentors** are staff assigned [[Senior Moderator]]s who choose to take on new [[Support]] members to guide them as "Mentees" through their early days of their roles.
 
 ### ☑️ Responsibilities
 
