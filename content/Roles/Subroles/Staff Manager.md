@@ -1,5 +1,5 @@
 ---
-title: 2. Staff Manager
+title: 3. Staff Manager
 ---
 > ℹ️ Multiple [[Management]] members who discuss staff **promotions** and **demotions**.
 > They make general decisions regarding the staff team.

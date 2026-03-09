@@ -1,5 +1,5 @@
 ---
-title: 1. General
+title: 2. General
 ---
 > ℹ️ [[Support]] and above may handle this ticket type.
 
