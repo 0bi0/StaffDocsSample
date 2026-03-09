@@ -8,7 +8,7 @@ title: 4. Ticket Manager
   
 - Monitor ticket activity to ensure **timely** and **professional** responses. 
 - Review and resolve **escalated** or complex tickets. 
-- Ensure staff follow proper **ticket procedures** and guidelines. 
+- Ensure staff follow proper [[Ticket Etiquette]] and guidelines. 
 
 The **Ticket Manager** role is a sub-role, as members may also handle additional management duties. This is **not a standalone responsibility**, and tasks are distributed across multiple Senior Moderators.
 
