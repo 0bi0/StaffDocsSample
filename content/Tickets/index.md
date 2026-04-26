@@ -11,7 +11,7 @@ At **PvPHub**, we separate player tickets into four categories:
 	- **Easy** to take care of, should have a **fast** response time.
 - **General**
 	- Can be a **variety of different scenarios**, such as **Rank Transfers** or **Questions & Enquiries**.
-	- Some of these require more expertise to answer (i.e., [[System-Administrator]] or [[Administrator]]), and may need to be escalated.
+	- Some of these require more expertise to answer (i.e., [[Developer]] or [[Administrator]]), and may need to be escalated.
 - **Staff Reports**
 	- Reports from regular members against staff members.
 	- These are handled by the [[Management]] team.
