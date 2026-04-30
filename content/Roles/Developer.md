@@ -8,5 +8,5 @@ title: 2. System-Administrator
 ### ☑️ Responsibilities
 
 - Server Infrastructure
-- Development on in house applications / plugins
+- Development on in-house applications / plugins
 - Bug Reports
