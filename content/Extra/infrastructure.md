@@ -10,7 +10,7 @@ title: Infrastructure
 ## **Software Stack**
 - **Proxy:** Velocity 3.4.0-SNAPSHOT
 - **Server:** UniverseSpigot
-- **Minecraft Version:** 1.21.4
+- **Minecraft Version:** 1.21.11
 - **Voice Chat:** Simple Voice Chat 2.6.6
 - **Anti-Cheat:** Polar + TotemGuard
 
