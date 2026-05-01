@@ -13,7 +13,7 @@ PvPHub operates a **multi-layer AntiCheat system** to ensure that there are as f
 The server will always be running the following configuration:
 - **Polar + TotemGuard**
 
-Each AntiCheat behaves differently, and **not all flags are equal**. Please make sure to familiarize yourself with what check means.
+Please bear in mind that **not all flags are equal**. Please make sure to familiarize yourself with what check means.
 Some checks are known to false under specific conditions, while others are considered highly reliable.
 
 
