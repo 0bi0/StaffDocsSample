@@ -1,5 +1,5 @@
 ---
-title: 5. Rank Transfers
+title: 6. Rank Transfers
 ---
 > ℹ️  Handled by [[Support]] and above until escalation is necessary.
 

@@ -1,5 +1,5 @@
 ---
-title: 3. Player Reports
+title: 4. Player Reports
 ---
 > ℹ️  [[Support]] and above may handle this ticket type.
 
