@@ -17,4 +17,4 @@ title: 2. Developer
 
 While Developers may assist in management decisions when needed, they do not inherently hold management authority. Decision-making power depends on additional roles such as `.` or `Admin Permissions`.
 
-In other words, Devs that simply have the "Developer" role on Discord merely work on development. They are not also "Administrators" or something similar per se.
+In other words, Devs that simply have the "Developer" role on Discord merely work on development. They are not also "Managers" or something similar per se.
