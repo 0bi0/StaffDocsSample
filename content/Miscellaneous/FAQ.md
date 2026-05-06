@@ -8,7 +8,7 @@ This page should serve as your go-to hub for any miscellaneous information regar
 
 
 ## Server Information
-- **Server version:** 1.21.4
+- **Server version:** 1.21.11
 - **Server software:** UniverseSpigot
 - **Bedrock support:** ❌ Not supported
 - **Server status:** PvPHub is not for sale
