@@ -1,5 +1,5 @@
 ---
-title: 3. Player Reports
+title: 4. Player Reports
 ---
 > ℹ️  [[Support]] and above may handle this ticket type.
 
@@ -13,7 +13,7 @@ These can usually be handled by:
 If evidence is provided as an **Online Clip** (e.g., Medal), please download and repost it in the the **Punishment Evidence** with the username once a punishment is delivered.
 
 > ## 📝
-> Evidence is absolutely required to make a decision, if there isn't enough, then **ask for more** or void the ticket.
+> Evidence is absolutely required to make a decision; if there isn't enough, then **ask for more** or void the ticket.
 > 
 > If you are **unsure** of a decision, ask for other staff's opinions, or do not deliver a punishment.
 > 

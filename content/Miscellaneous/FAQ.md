@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 ---
 ---
 This page should serve as your go-to hub for any miscellaneous information regarding the server. This section should be used primarily for [[general]] tickets. It is also appropriate for situations where another category is not applicable.
@@ -8,7 +8,7 @@ This page should serve as your go-to hub for any miscellaneous information regar
 
 
 ## Server Information
-- **Server version:** 1.21.4
+- **Server version:** 1.21.11
 - **Server software:** UniverseSpigot
 - **Bedrock support:** ❌ Not supported
 - **Server status:** PvPHub is not for sale
@@ -21,6 +21,7 @@ This page should serve as your go-to hub for any miscellaneous information regar
 
 ## Position Acquisition
 - **Staff applications:** `🚓・staff-applications` 
+
   *Applications are the only accepted method of becoming staff*
 - **Staff application process:**  
   - Initial application  
