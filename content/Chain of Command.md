@@ -8,9 +8,9 @@ The chain of command defines **who should handle the situation** if escalation i
 If a staff member has a **general enquiry**, or an **internal affair** (i.e., an issue or problem with another staff member), please refer to this "Chain of command".
 
 * **General issue or question** ➡️ **Your Assigned [[Mentor]] / Sr. Moderator / Administrator** 
-* **Issue with an Administrator** ➡️ **Developer**
-* **Issue with a Developer** ➡️ **Owner**
-* **Issue with an Owner** ➡️ **Developer**
+* **Issue with an [[Administrator]]** ➡️ **[[Developer]]**
+* **Issue with a [[Developer]]** ➡️ **[[Owner]]**
+* **Issue with an [[Owner]]** ➡️ **[[Developer]]**
 
 
 > # 📝 Note
