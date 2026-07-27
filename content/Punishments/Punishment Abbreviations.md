@@ -1,7 +1,7 @@
 ---
 title: Punishment Abbreviations
 ---
-When punishing someone, whether that be in-game or via the gamelink, it is crucial to use the correct keyword so that the appropriate punishment is applied effectively.
+When punishing someone, whether that be in-game or via the [[Game Link]], it is crucial to use the correct keyword so that the appropriate punishment is applied effectively.
 
 In short, you don't need to manually type out your punishments and their respective duration. Simply executing a command along the lines of `/ban <user> <reason>` or `/mute <user> <reason>` will suffice.
 
