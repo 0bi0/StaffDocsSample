@@ -60,6 +60,23 @@ Some useful copy-pastas that you may use in tickets, summarised from `🥧・tid
 ---
 
 ```
+**To get your Tier on PvPHub:**
+
+1.  Join: https://discord.gg/cpvp
+2.  Go to `:white_check_mark: | verification`, react & accept rules.
+3.  Go to `:e_mail: | request-test`.
+    *   *Scroll up then click **"Verify Account"** and follow the bot's instructions.*
+
+**To Request a Test:**
+• Scroll back up and click **"Enter Waitlist"** to enter the waitlist and join the test queue (only when open).
+
+**Finally:**
+• Once you get the role on Discord linked below, it will automatically sync to PvPHub.
+```
+
+---
+
+```
 # YouTube Requirements
 
 :logo: : **Primarily PvPHub Content**
