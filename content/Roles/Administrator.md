@@ -9,4 +9,4 @@ title: 3. Administrator
 - Perform rank transfers between two accounts ([[Rank Transfers]])
 - Handle any doxx-related report tickets ([[Doxx Reports]])
 - Issue warnings to staff members of a lower role
-- Assign [[Mentor]]s for new staff members
+- Assign [[Mentor]]s to new staff members

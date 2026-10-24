@@ -117,5 +117,3 @@ Some useful copy-pastas that you may use in tickets, summarised from `🥧・tid
 
 > :pencil: Larger creators may have exceptions.
 ```
-
----
